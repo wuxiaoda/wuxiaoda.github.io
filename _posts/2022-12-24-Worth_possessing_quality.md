@@ -4,7 +4,7 @@ title:      "值得拥有的品格"
 subtitle:   "Worth_possessing_quality"
 date:       2022-12-24
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/2023-05-BPK-AGM.png"
 tags:
     - 人生
 ---
