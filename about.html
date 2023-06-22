@@ -1,0 +1,89 @@
+---
+layout: page
+title: "About"
+description: "Don't Worry Be Happy"
+header-img: "img/about-happy.jpg"
+---
+
+<div class="zh post-container">
+    <blockquote>
+        做做投资，写写代码，看看书。
+    </blockquote>
+毕业于西南财经大学，统计学硕士。目前从事量化投资，主要研究机器学习在投资领域的应用。<br><br>关于写东西，我一度是非常排斥的。因为文笔实在太差，组织语言非常费劲，大概是被语文作文所支配的恐惧。之所以想写，是受到谢老大的启发。正如他所说：“网站是用来积累成就的”。至于成就到底是大或小无关紧要，重要的是<a href="https://yihui.name/cn/2019/07/inner-peace/">堆砌</a>
+<br><br>长期值得做的三件事：<b>锻炼身体</b>、<b>阅读与写作</b>、<b>投资</b>。<br><br>微信：wussrs<br><br>微信公众号：柳林投资笔记
+
+<body>
+    <h4>兴趣</h4>
+	<ul>
+	  <li>价值投资、量化投资</li>
+	  <li>影视：《悠长假期》《全职猎人》《生命的故事》《龙樱》《土拨鼠之日》《铁齿铜牙纪晓岚》《吕颂贤版笑傲江湖》《人生七年》《排球少年》......</li>
+	  <li>小说：金庸、伊坂幸太郎、东野圭吾</li>
+	  	  <li>游戏：《黑暗之魂3》《只狼》《女神异闻录5》</li>
+	</ul>
+</body>
+</div>
+
+
+
+
+{% if site.duoshuo_username %}
+<!-- 多说评论框 start -->
+<div class="comment">
+    <div class="ds-thread"
+    {% if site.duoshuo_username == "huxblog" %}
+        data-thread-id="1187623191091085319"
+    {% else %}
+        data-thread-key="{{site.duoshuo_username}}/about"
+    {% endif %}
+
+    data-title="{{page.title}}"
+    data-url="{{site.url}}/about/"></div>
+</div>
+<!-- 多说评论框 end -->
+
+<!-- Duoshuo hacking -->
+<input id="dsUser" type="hidden" value="{{site.duoshuo_username}}"  />
+
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    // dynamic User hacking by Hux
+    var _user = document.getElementById('dsUser').value;
+    // duoshuo comment query.
+    var duoshuoQuery = {short_name: _user };
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0]
+         || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+</script>
+<!-- 多说公共JS代码 end -->
+{% endif %}
+
+
+{% if site.disqus_username %}
+<!-- disqus 评论框 start -->
+<div class="comment">
+    <div id="disqus_thread" class="disqus-thread">
+
+    </div>
+</div>
+<!-- disqus 评论框 end -->
+
+<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = "{{site.disqus_username}}";
+    var disqus_identifier = "{{site.disqus_username}}/{{page.url}}";
+    var disqus_url = "{{site.url}}{{page.url}}";
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<!-- disqus 公共JS代码 end -->
+{% endif %}
