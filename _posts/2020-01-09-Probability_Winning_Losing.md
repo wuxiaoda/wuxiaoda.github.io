@@ -4,7 +4,7 @@ title:      "输赢的概率"
 subtitle:   "Probability_Winning_Losing"
 date:       2020-01-09
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-8.jpg"
 tags:
     - 投资
 ---
