@@ -4,7 +4,7 @@ title:      "机会成本"
 subtitle:   "Opportunity_Cost"
 date:       2019-08-17
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-19.jpg"
 tags:
     - 投资
 ---
