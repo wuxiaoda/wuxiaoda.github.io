@@ -4,7 +4,7 @@ title:      "b站是否值得投资"
 subtitle:   "Bilibili_worth_investing"
 date:       2018-03-30
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/psot-bilibili.png"
 tags:
     - 投资
 ---
