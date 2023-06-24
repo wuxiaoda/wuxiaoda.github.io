@@ -4,7 +4,7 @@ title:      "腾讯VS阿里：在产业互联网的布局有何不同"
 subtitle: "Tencent_Ali_Difference_Layout_of_the_Industry_Internet"
 date:       2019-09-29
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Tencent.jpg"
 tags:
     - 投资
 ---
