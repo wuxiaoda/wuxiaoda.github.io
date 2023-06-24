@@ -4,7 +4,7 @@ title:      "游戏的魅力"
 subtitle:   "Game_Charm"
 date:       2019-12-01
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-3.jpg"
 tags:
     - 娱乐
 ---
