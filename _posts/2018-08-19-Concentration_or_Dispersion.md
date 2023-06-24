@@ -4,7 +4,7 @@ title:      "集中还是分散"
 subtitle:   "Concentration_or_Dispersion"
 date:       2018-08-19
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-7.jpg"
 tags:
     - 投资
 ---
