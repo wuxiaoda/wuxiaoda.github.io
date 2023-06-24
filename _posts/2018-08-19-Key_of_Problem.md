@@ -4,7 +4,7 @@ title:      "问题的关键"
 subtitle:   "Key_of_Problem"
 date:       2018-08-19
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-6.jpg"
 tags:
     - 量化
 ---
