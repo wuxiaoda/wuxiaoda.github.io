@@ -4,7 +4,7 @@ title:      "腾讯的确定性"
 subtitle:   "Certainty_of_Tencent"
 date:       2020-01-08
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Tencent.jpg"
 tags:
     - 投资
 ---
