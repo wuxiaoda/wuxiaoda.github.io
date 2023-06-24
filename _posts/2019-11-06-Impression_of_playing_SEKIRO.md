@@ -4,7 +4,7 @@ title:      "玩《只狼》有感"
 subtitle:   "Impression_of_playing_SEKIRO"
 date:       2019-11-06
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-SEKIRO.jpg"
 tags:
     - 娱乐
 ---
