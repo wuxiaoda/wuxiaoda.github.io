@@ -4,7 +4,7 @@ title:      "《戴维斯王朝》笔记"
 subtitle:   "Notes_of_Davis_Dynasty"
 date:       2019-10-06
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Davis_Dynasty.jpg"
 tags:
     - 笔记
     - 投资
