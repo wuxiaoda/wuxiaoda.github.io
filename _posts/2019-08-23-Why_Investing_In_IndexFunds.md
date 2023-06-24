@@ -4,7 +4,7 @@ title:      "为什么定投指数基金"
 subtitle:   "Why_Investing_In_IndexFunds"
 date:       2019-08-23
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-5.jpg"
 tags:
     - 投资
 ---
