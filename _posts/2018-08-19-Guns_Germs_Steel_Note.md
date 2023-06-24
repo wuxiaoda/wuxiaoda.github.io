@@ -4,7 +4,7 @@ title:      "《枪炮、病菌与钢铁》笔记"
 subtitle:   "Guns_Germs_Steel_Note"
 date:       2018-08-19
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/psot-Guns_Germs_Steel.jpg"
 tags:
     - 投资
 ---
