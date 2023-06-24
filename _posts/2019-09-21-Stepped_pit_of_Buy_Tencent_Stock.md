@@ -4,7 +4,7 @@ title:      "买腾讯股票踩过的坑"
 subtitle:   "Stepped_pit_of_Buy_Tencent_Stock"
 date:       2019-09-21
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Tencent.jpg"
 tags:
     - 投资
 ---
