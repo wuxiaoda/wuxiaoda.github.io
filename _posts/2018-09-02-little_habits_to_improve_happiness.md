@@ -4,7 +4,7 @@ title:      "提升幸福的小习惯"
 subtitle:   "little_habits_to_improve_happiness"
 date:       2018-09-02
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-1.jpg"
 tags:
     - 人生
 ---
