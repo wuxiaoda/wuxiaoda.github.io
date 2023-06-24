@@ -4,7 +4,7 @@ title:      "《万物简史》笔记"
 subtitle:   "Note_Brief_History_Everything"
 date:       2018-10-06
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Brief_History_Everything.jpg"
 tags:
     - 笔记
 ---
