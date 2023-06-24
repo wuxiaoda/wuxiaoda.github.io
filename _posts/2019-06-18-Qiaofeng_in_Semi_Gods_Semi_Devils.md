@@ -4,7 +4,7 @@ title:      "《天龙八部》里的乔峰"
 subtitle:   "Qiaofeng_in_Semi_Gods_Semi_Devil"
 date:       2019-06-18
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Semi_Gods_Semi_Devil.jpg"
 tags:
     - 娱乐
 ---
