@@ -4,7 +4,7 @@ title:      "价值投资与量化投资"
 subtitle:   "Value_investment_and_Quant_investment"
 date:       2019-08-10
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-26.jpg"
 tags:
     - 投资
 ---
