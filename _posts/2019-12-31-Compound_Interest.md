@@ -4,7 +4,7 @@ title:      "复利"
 subtitle:   "Compound_Interest"
 date:       2019-12-31
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-5.jpg"
 tags:
     - 投资
 ---
