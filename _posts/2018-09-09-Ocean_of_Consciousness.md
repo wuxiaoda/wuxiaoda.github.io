@@ -4,7 +4,7 @@ title:      "意识的海洋"
 subtitle:   "Ocean_of_Consciousness"
 date:       2018-09-09
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-3.jpg"
 tags:
     - 笔记
 ---
