@@ -4,7 +4,7 @@ title:      "金钱与财富"
 subtitle:   "Money_and_Wealth"
 date:       2018-08-25
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-1.jpg"
 tags:
     - 投资
 ---
