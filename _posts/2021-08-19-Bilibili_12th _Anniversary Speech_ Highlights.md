@@ -4,7 +4,7 @@ title:      "B站12周年演讲精华"
 subtitle:   "Bilibili_12th _Anniversary Speech_ Highlights"
 date:       2021-08-19
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/psot-bilibili.jpg"
 tags:
     - 投资
 ---

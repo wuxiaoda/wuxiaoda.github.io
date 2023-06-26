@@ -4,7 +4,7 @@ title:      "进化论的魅力"
 subtitle:   "Evolution_Charm"
 date:       2020-07-17
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-13.jpg"
 tags:
     - 笔记
 ---

@@ -4,7 +4,7 @@ title:      "如何在一个月内掌握深度学习"
 subtitle:   "How_Master_DL_Month"
 date:       2020-10-29
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-programming-language.jpg"
 tags:
     - 人工智能
 ---

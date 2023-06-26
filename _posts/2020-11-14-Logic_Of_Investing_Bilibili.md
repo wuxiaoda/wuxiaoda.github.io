@@ -4,7 +4,7 @@ title:      "投资b站的逻辑"
 subtitle:   "Logic_Of_Investing_Bilibili"
 date:       2020-11-14
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/psot-bilibili.jpg"
 tags:
     - 投资
 ---

@@ -4,7 +4,7 @@ title:      "《动机心理学》读书笔记"
 subtitle:   "Notes_Psychology_Motivation"
 date:       2020-09-18
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Psychology_Motivation.jpg"
 tags:
     - 笔记
 ---

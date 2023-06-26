@@ -4,7 +4,7 @@ title:      "科学防痘"
 subtitle:   "Science_Anti_Acne"
 date:       2022-10-05
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-1.jpg"
 tags:
     - 健康
 ---

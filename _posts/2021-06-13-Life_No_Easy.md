@@ -4,7 +4,7 @@ title:      "人生不易"
 subtitle:   "Life_No_Easy"
 date:       2021-05-30
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-21.jpg"
 tags:
     - 人生
 ---

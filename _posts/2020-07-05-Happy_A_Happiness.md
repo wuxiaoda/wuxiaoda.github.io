@@ -4,7 +4,7 @@ title:      "快乐与幸福"
 subtitle:   "Happy_A_Happiness"
 date:       2020-07-05
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-21.jpg"
 tags:
     - 人生
     - 笔记

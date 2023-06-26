@@ -4,7 +4,7 @@ title:      "乌龟和兔子，不同的人生"
 subtitle:   "Tortoise_Hare_Different_Lives"
 date:       2020-11-10
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Tortoise_Hare_Different_Lives.jpg"
 tags:
     - 笔记
 ---

@@ -4,7 +4,7 @@ title:      "《巴芒演义》之时间的讨论"
 subtitle:   "Discuss_Time_of_BM_Arts"
 date:       2020-05-16
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-5.jpg"
 tags:
     - 投资
 ---

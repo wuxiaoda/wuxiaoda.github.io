@@ -4,7 +4,7 @@ title:      "多元价值观"
 subtitle:   "Values_ Diversity"
 date:       2020-05-10
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-20.jpg"
 tags:
     - 人生
 ---

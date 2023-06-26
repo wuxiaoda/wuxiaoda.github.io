@@ -4,7 +4,7 @@ title:      "如何更好地决策"
 subtitle:   "How_to_Make_Better_Becisions"
 date:       2020-03-28
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-11.jpg"
 tags:
     - 决策
 ---

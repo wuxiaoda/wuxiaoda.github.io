@@ -4,7 +4,7 @@ title:      "算法问题的银弹"
 subtitle:   "Silver_Bullet_AI_Problems"
 date:       2020-10-12
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-programming-language.jpg"
 tags:
     - 人工智能
 ---

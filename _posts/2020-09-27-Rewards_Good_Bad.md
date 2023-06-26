@@ -4,7 +4,7 @@ title:      "奖励的正反面"
 subtitle:   "Rewards_Good_Bad"
 date:       2020-09-27
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Good_Bad.jpg"
 tags:
     - 笔记
 ---

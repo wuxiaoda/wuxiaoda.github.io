@@ -4,7 +4,7 @@ title:      "机器学习选股模型"
 subtitle:   "ML_Stock_Selection_Model"
 date:       2022-04-15
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-26.jpg"
 tags:
     - 量化
 ---

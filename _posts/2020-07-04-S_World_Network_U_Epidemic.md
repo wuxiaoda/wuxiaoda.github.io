@@ -4,7 +4,7 @@ title:      "疫情下的小世界网络"
 subtitle:   "S_World_Network_U_Epidemic"
 date:       2020-07-04
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-8.jpg"
 tags:
     - 笔记
 ---

@@ -4,7 +4,7 @@ title:      "量化选股策略"
 subtitle:   "Quantitative_Stock_Select_Strategy"
 date:       2020-08-11
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-26.jpg"
 tags:
     - 投资
 ---

@@ -4,7 +4,7 @@ title:      "《超越智商》笔记"
 subtitle:   "Notes_Psychology_Rational_Thought"
 date:       2020-03-01
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Psychology_Rational_Thought.jpg"
 tags:
     - 笔记
 ---

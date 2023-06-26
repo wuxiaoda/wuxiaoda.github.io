@@ -4,7 +4,7 @@ title:      "乐观面对股市暴跌"
 subtitle:   "Optimistic_Face_Stock_Market_Crash"
 date:       2020-03-24
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-21.jpg"
 tags:
     - 投资
 ---

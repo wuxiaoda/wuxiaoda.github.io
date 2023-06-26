@@ -4,7 +4,7 @@ title:      "可转债因子"
 subtitle:   "Convertible-Bond-Factor"
 date:       2022-10-08
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Bond.jpg"
 tags:
     - 投资
 ---

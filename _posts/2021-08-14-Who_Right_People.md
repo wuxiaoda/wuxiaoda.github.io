@@ -4,7 +4,7 @@ title:      "谁是对的人"
 subtitle:   "Who_Right_People"
 date:       2021-08-14
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-25.jpg"
 tags:
     - 人生
 ---

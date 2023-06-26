@@ -4,7 +4,7 @@ title:      "火影，梦回青春"
 subtitle:   "Naruto_dream_back_youth"
 date:       2021-07-26
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Naruto.jpg"
 tags:
     - 娱乐
 ---

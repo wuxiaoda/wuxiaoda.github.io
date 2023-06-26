@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "数码产品使用体验资"
+title:      "数码产品使用体验"
 subtitle:   "Exp_Digital_Prod"
 date:       2022-08-16
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-3.jpg"
 tags:
     - 娱乐
 ---

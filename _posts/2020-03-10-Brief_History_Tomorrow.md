@@ -4,7 +4,7 @@ title:      "《未来简史》笔记"
 subtitle:   "Brief_History_Tomorrow"
 date:       2020-03-10
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-History_Tomorrow.jpg"
 tags:
     - 笔记
 ---

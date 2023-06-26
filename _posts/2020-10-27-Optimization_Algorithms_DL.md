@@ -4,7 +4,7 @@ title:      "深度学习中的优化算法"
 subtitle:   "Optimization_Algorithms_DL"
 date:       2020-10-27
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-programming-language.jpg"
 tags:
     - 人工智能
 ---

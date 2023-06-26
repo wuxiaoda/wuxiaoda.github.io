@@ -4,7 +4,7 @@ title:      "2021年Daily-Journal笔记"
 subtitle:   "Note_Daily_Journal"
 date:       2021-03-27
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Charles-Munger.jpg"
 tags:
     - 投资
 ---

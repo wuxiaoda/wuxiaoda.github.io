@@ -4,7 +4,7 @@ title:      "少年，传火吗"
 subtitle:   "Juvenile_Spread_Fire"
 date:       2020-07-20
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Spread_Fire.jpg"
 tags:
     - 人生
     - 娱乐

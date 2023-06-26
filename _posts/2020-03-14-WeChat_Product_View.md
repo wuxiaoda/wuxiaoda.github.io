@@ -4,7 +4,7 @@ title:      "微信的产品观"
 subtitle:   "WeChat_Product_View"
 date:       2020-03-14
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Tencent.jpg"
 tags:
     - 投资
 ---

@@ -4,7 +4,7 @@ title:      "b站的再思考"
 subtitle:   "Rethink_bilibili"
 date:       2021-03-21
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/psot-bilibili.jpg"
 tags:
     - 投资
 ---

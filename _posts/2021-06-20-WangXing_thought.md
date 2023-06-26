@@ -4,7 +4,7 @@ title:      "王兴的思想碎片"
 subtitle:   "WangXing_Thought"
 date:       2021-06-20
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-20.jpg"
 tags:
     - 投资
 ---

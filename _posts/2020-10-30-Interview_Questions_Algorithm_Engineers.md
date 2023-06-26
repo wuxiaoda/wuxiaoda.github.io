@@ -4,7 +4,7 @@ title:      "算法工程师的面试题"
 subtitle:   "Unemployed_Youth_Job_Hunting"
 date:       2020-10-30
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-programming-language.jpg"
 tags:
     - 人工智能
 ---

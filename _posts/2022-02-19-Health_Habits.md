@@ -4,7 +4,7 @@ title:      "健康与习惯"
 subtitle:   "Health_Habits"
 date:       2022-02-19
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-background-1.jpg"
 tags:
     - 健康
 ---

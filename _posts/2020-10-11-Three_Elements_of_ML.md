@@ -4,7 +4,7 @@ title:      "机器学习三要素"
 subtitle:   "Three_Elements_of_ML"
 date:       2020-10-11
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-programming-language.jpg"
 tags:
     - 人工智能
 ---

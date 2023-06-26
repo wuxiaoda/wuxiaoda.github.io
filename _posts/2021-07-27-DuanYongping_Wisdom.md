@@ -4,7 +4,7 @@ title:      "段永平的智慧"
 subtitle:   "DuanYongping_Wisdom"
 date:       2021-07-27
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-DuanYongping.jpg"
 tags:
     - 大牛
     - 投资

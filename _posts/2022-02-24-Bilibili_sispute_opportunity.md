@@ -4,7 +4,7 @@ title:      "B站的争议与机会"
 subtitle:   "Bilibili_sispute_opportunity"
 date:       2022-02-24
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/psot-bilibili.jpg"
 tags:
     - 投资
 ---

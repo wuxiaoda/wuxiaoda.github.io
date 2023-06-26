@@ -4,7 +4,7 @@ title:      "《爱的艺术》笔记"
 subtitle:   "Notes_of_Love_Art"
 date:       2020-02-11
 author:     "邬小达"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-Love_Art.jpg"
 tags:
     - 笔记
 ---
