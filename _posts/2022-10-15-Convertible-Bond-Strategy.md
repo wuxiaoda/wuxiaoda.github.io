@@ -4,7 +4,7 @@ title:      "可转债策略"
 subtitle:   "Convertible-Bond-Strategy"
 date:       2022-10-15
 author:     "邬小达"
-header-img: "img/post-Bond.jpg"
+header-img: "img/post-background-26.jpg"
 tags:
     - 投资
 ---
