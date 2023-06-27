@@ -4,7 +4,7 @@ title:      "可转债的股性和债性"
 subtitle:   "Equity-Debt-Convertible-Bonds"
 date:       2022-10-07
 author:     "邬小达"
-header-img: "img/post-Bond.jpg"
+header-img: "img/post-background-26.jpg"
 tags:
     - 投资
 ---
