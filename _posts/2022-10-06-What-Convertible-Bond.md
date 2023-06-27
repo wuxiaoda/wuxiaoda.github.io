@@ -4,7 +4,7 @@ title:      "什么是可转债"
 subtitle:   "What-Convertible-Bond"
 date:       2022-10-06
 author:     "邬小达"
-header-img: "img/post-Bond.jpg"
+header-img: "img/post-background-26.jpg"
 tags:
     - 投资
 ---
