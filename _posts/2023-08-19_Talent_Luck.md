@@ -6,8 +6,10 @@ date:       2023-08-19
 author:     "邬小达"
 header-img: "img/post-background-16.jpg"
 tags:
-    - 投资
+    - 人生
 ---
+
+> **life is a musical thing**
 
 天赋和运气哪个更加重要呢？能否通过实验进行量化？[《天赋与运气，随机性在成功和失败中的作用》](https://www.worldscientific.com/doi/abs/10.1142/S0219525918500145)这篇报告，使用计算机建立了模拟实验，来分析了运气对个人的成功有多大的作用。有趣的事，这篇报告荣获了2022 年这一届的搞笑诺贝尔经济学奖。
 
