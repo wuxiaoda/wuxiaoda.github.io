@@ -86,8 +86,3 @@ tags:
 [《天赋与运气，随机性在成功和失败中的作用》](https://www.worldscientific.com/doi/abs/10.1142/S0219525918500145)
 
 [【老高与小茉】真正的人生攻略](https://www.bilibili.com/video/BV1gX4y1z7mB/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=48be41d3beaefff0baa2371c3e2895e9)
-
-
-
-
-
