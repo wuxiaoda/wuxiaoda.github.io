@@ -4,7 +4,7 @@ title:      "ChatGPT 之父阿尔特曼：写在30岁的36条人生建议"
 subtitle:   "Sam_Altman_Advice "
 date:       2023-09-10
 author:     "邬小达"
-header-img: "img/post-background-16.jpg"
+header-img: "img/post-background-1.jpg"
 tags:
     - 人生
 ---
