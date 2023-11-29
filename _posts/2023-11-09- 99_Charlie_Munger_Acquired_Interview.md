@@ -4,7 +4,7 @@ title:      "99岁芒格最新访谈全文！从投资到人生、家庭的智�
 subtitle:   "99_Charlie_Munger_Acquired_Interview"
 date:       2023-11-09
 author:     "邬小达"
-header-img: "img/post-background-0.jpg"
+header-img: "img/post-Charles-Munger.jpg"
 tags:
     - 人生
 ---
