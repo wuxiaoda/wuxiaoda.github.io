@@ -171,8 +171,8 @@ data['x1'].shift(20)
 abs(data['x1'])
 
 # 按照日期分组，然后将pred进行离散化分成10组
-param_dict = {'q':num,'labels':range(10, 0, -1)}
-df.groupby('calendarDate')['pred'].apply(pd.qcut, **param_dict)
+param_dict = {'bins':num,'labels':range(10, 0, -1)}
+df.groupby('calendarDate')['pred'].apply(pd.cut, **param_dict)
 ```
 
 
