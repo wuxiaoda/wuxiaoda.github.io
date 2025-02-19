@@ -49,6 +49,14 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
+      - name: Upload artifact
+      uses: actions/upload-artifact@v4  # ✅ 强制使用 v4，避免 v3 被调用
+      with:
+        name: jekyll-site
+        path: _site  # 确保上传 Jekyll 生成的 `_site` 目录
+        if-no-files-found: error
+        
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
