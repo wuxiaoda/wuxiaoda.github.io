@@ -51,14 +51,7 @@ jobs:
           JEKYLL_ENV: production
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-artifact@v4
-        with:
-          name: artifact
-          path: ./_site  # 指定要上传的文件或目录（请替换为你的实际路径）
-          if-no-files-found: warn
-          compression-level: 6
-          overwrite: false
-          include-hidden-files: false
+        uses: actions/upload-pages-artifact@v1
 
   # Deployment job
   deploy:
