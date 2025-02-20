@@ -52,7 +52,7 @@ jobs:
           
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./_site  # ✅ 明确指定 Jekyll 生成的目录
 
