@@ -62,6 +62,10 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
+      # ✅ 添加调试代码，检查 _site 目录是否正确生成
+      - name: Debug `_site` Directory
+        run: ls -la _site
           
       - name: Upload site artifact
         # Automatically uploads an artifact from the './_site' directory by default
